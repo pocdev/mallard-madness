@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/MallardMadness/svn/!svn/ver/5/Assets/Standard%20Assets/Water%20(Pro%20Only)/Water4/Sources/Shaders
+END
+FX-SimpleWater4.shader
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Proof_of_Concept/MallardMadness/svn/!svn/ver/5/Assets/Standard%20Assets/Water%20(Pro%20Only)/Water4/Sources/Shaders/FX-SimpleWater4.shader
+END
+FX-SimpleWater4.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/Proof_of_Concept/MallardMadness/svn/!svn/ver/5/Assets/Standard%20Assets/Water%20(Pro%20Only)/Water4/Sources/Shaders/FX-SimpleWater4.shader.meta
+END
+FX-Water4.shader
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/MallardMadness/svn/!svn/ver/5/Assets/Standard%20Assets/Water%20(Pro%20Only)/Water4/Sources/Shaders/FX-Water4.shader
+END
+WaterInclude.cginc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Proof_of_Concept/MallardMadness/svn/!svn/ver/5/Assets/Standard%20Assets/Water%20(Pro%20Only)/Water4/Sources/Shaders/WaterInclude.cginc
+END
+FX-Water4.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Proof_of_Concept/MallardMadness/svn/!svn/ver/5/Assets/Standard%20Assets/Water%20(Pro%20Only)/Water4/Sources/Shaders/FX-Water4.shader.meta
+END
+WaterInclude.cginc.meta
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Proof_of_Concept/MallardMadness/svn/!svn/ver/5/Assets/Standard%20Assets/Water%20(Pro%20Only)/Water4/Sources/Shaders/WaterInclude.cginc.meta
+END
